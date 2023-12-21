@@ -3,11 +3,11 @@ header, footer {
   position: fixed;
   padding: 20px 0;
   box-sizing: border-box;
-  color: #875687 !important;
+  color: #d8d5e6 !important;
   width: 100%; }
 
 .layout_a {
-  color: #d8abab !important; }
+  color: #54c6b3 !important; }
   .layout_a:hover {
     text-decoration: underline;
     color: #a6d499 !important;
