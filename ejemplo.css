@@ -1,17 +1,17 @@
 header, footer {
-  background-color: #282828;
+  background-color: #0b0a0b;
   position: fixed;
   padding: 20px 0;
   box-sizing: border-box;
-  color: #c3c1c1;
+  color: #875687 !important;
   width: 100%; }
 
 .layout_a {
-  color: #c3c1c1; }
+  color: #d8abab !important; }
   .layout_a:hover {
     text-decoration: underline;
-    color: #FFF;
-    background-color: red;
+    color: #a6d499 !important;
+    background-color: rgb(107, 126, 145) !important;
     border: 1px solid blue;
     font-size: 20px; }
 
