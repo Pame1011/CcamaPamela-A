@@ -3,13 +3,13 @@ header, footer {
   position: fixed;
   padding: 20px 0;
   box-sizing: border-box;
-  color: #c3c1c1;
+  color: #c4c3cf !important;
   width: 100%;
 }
 
 @mixin backgroundred {
-  background-color: red;
-  border: 1px solid blue;
+  background-color: rgb(144, 187, 222);
+  border: 1px solid rgb(82, 82, 198);
   font-size: 20px;
 }
 
