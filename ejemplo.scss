@@ -15,10 +15,10 @@ header, footer {
 
 
 .layout_a {
-  color: #c3c1c1;
+  color: #5d43b9 !important;
   &:hover {
     text-decoration: underline;
-    color: #FFF;
+    color: #b67dad !important;
     @include backgroundred
   }
 }
